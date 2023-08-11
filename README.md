@@ -1,3 +1,1 @@
-<div id="header" align="center>
- <img src= "[https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif)https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif](https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif)https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif">
-</div>
+<a href="[URL_REDIRECT](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>

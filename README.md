@@ -1,1 +1,1 @@
-<a href="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXczejc4ajRxZmRrc2ZvbW5mYzVueWppOWtkczhzcHdrN2g1cGVhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" target="blank"><img align="center" src="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8)https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8" height="100" /></a>

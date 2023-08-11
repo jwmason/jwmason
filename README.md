@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋
 
 <!--
 **jwmason/jwmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif)https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif

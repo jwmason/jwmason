@@ -1,3 +1,3 @@
 <div>
-    <img src="https://example.com/path-to-your-image.gif" alt="Animated GIF" height="200" />
+    <img src="https://tenor.com/view/code-gif-20588417" alt="Animated GIF" height="200" />
 </div>

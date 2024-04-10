@@ -1,51 +1,42 @@
-# Hi there, I'm Mason John Wong! 👋
+# Mason John Wong 🚀
 
-I'm a Computer Science student at the University of California Irvine, passionate about building and innovating with technology. With a strong foundation in programming and robotics, I'm always eager to tackle challenges and contribute to meaningful projects.
+Welcome to my GitHub! I'm a Computer Science major at the University of California, Irvine, with a passion for developing innovative solutions that leverage the latest technologies. I thrive on challenges and enjoy collaborating on projects that make a difference.
 
-## 📚 Education
+## 🎓 Education
 - **Bachelor of Science in Computer Science**  
   University of California Irvine, Sep 2022 - Jun 2026  
-  GPA: 3.8
+  GPA: 3.7 | Junior Standing
 
-## 💼 Professional Experience
-- **Logistics Organizer**, Hack at UCI  
-  Dec 2022 - Present  
-  Coordinating large-scale hackathons, securing sponsorships, and leading logistics teams to ensure successful events.
+## 💻 Project Experience
+- **BetterPractice Augmented Media Player** (Project Lead, Mar 2024 - Present)  
+  Engineered an advanced media player with features like granular speed control and timestamp-specific annotations, using HTML, CSS, and JavaScript.
 
-- **Robotics Intern**, Cosumnes Oaks Career Technical Education  
-  Aug 2021 - Jun 2022  
-  Developed and implemented robotics education programs, provided instructional support, and led workshops on robotics technology.
+- **Static Corpus Indexer and Search Engine** (Project Co-Lead, Mar 2024)  
+  Created a search engine with an inverted index for efficient, accurate searches across large document collections, featuring a user-friendly graphical interface.
 
-## 🛠 Projects
-- **[ZotClassMobile App](https://github.com/jwmason/zotclassmobile)** - HackUCI 1st Place  
-  An API-based mobile app providing UCI course information. Built with Python, Flask, and Flutter.  
-  _Nov 2022_
+- **Agape - Mental Health AI ChatBot** (Full-Stack Developer, Jan 2024)  
+  Developed a mental wellness platform with real-time chat analysis, integrating OpenAI API for mood prediction and conversation responses, using technologies like Express.js, AWS, SQL, and React.js.
 
-- **[Blackjack Mobile App](https://github.com/jwmason/blackjack-app)**  
-  A mobile app for playing Blackjack against the computer, developed using JavaScript and AppLab.  
-  _Aug 2019 - Jun 2022_
+- **ZotClassMobile App - 1st Place HackUCI** (Full-Stack Developer, Nov 2022)  
+  Contributed to an API-based mobile app for UCI course information, with a backend in Python and Flask and a frontend in Flutter, deployed to Heroku.
 
-- **[Autonomous Robot Vehicle](https://github.com/jwmason/autonomous-robot)**  
-  A robot designed to autonomously perform tasks, coded with C++ and built using VEXCode V5.  
-  _Aug 2021 - Jun 2022_
+## 🛠 Professional Experience
+- **Software Engineer Intern**, BetterPractice (Feb 2024 - Present)  
+  Engaging in software development projects, applying my skills in programming and software design to contribute to the team's objectives.
 
-- **[COVID-19 Hand Wash Timer](https://github.com/jwmason/covid-handwash-timer)**  
-  An LED-based timer to encourage proper handwashing, using C++, Arduino Uno, and sensors.  
-  _Aug 2020 - Jun 2021_
+- **Logistics Organizer**, Hack at UCI (Dec 2022 - Jun 2023)  
+  Led logistics for large-scale hackathons, coordinating across departments to ensure success, and managing sponsorships and partnerships.
 
-## 🎖 Achievements
-- Nustar Scholarship Recipient
-- AP Scholar with Honor
-- AP Capstone Diploma
-- Robotics Pathway Completer
+## 🌟 Additional Information
+- **Awards**: Nustar Scholarship Recipient, Robotics Pathway Completer, California Scholarship Federation Seal-Bearer Award
+- **Languages**: Python, C++, JavaScript, Java
+- **Frameworks**: React.js, Flask, Express.js
+- **Skills**: HTML, CSS, Node.js, Web Scraping, Chrome Extension Development
+- **Cloud & Database Technologies**: Amazon Web Services (AWS), SQL
 
-## 💻 Technical Skills
-- **Languages**: Javascript, HTML, Python, C++
-- **Tools & Technologies**: Flask, Arduino, VEX, AppLab, Slack, Git
-
-## 📫 How to reach me:
+## 📬 Let's Connect
 - **Email**: [masonjw1@uci.edu](mailto:masonjw1@uci.edu)
 - **LinkedIn**: [mason-jwong](https://www.linkedin.com/in/mason-jwong)
 - **GitHub**: [@jwmason](https://github.com/jwmason)
 
-Let's connect and collaborate on amazing projects!
+I'm always looking for opportunities to grow and collaborate on exciting projects. Feel free to reach out if you're interested in connecting!

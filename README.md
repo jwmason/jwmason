@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a Computer Science major at the University of Californ
 
 - **ZotClassMobile App - 1st Place HackUCI** (Full-Stack Developer, Nov 2022)  
   Contributed to an API-based mobile app for UCI course information, with a backend in Python and Flask and a frontend in Flutter, deployed to Heroku.
-  [Frontend Repo](https://github.com/jwmason/ZotClassMobileFrontend) | [Backend Repo]([#](https://github.com/jwmason/ZotClassMobileBackend))
+  [Frontend Repo](https://github.com/jwmason/ZotClassMobileFrontend) | [Backend Repo](https://github.com/jwmason/ZotClassMobileBackend)
 
 ## 🛠 Professional Experience
 - **Software Engineer Intern**, BetterPractice (Feb 2024 - Present)  

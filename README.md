@@ -8,17 +8,18 @@ Welcome to my GitHub! I'm a Computer Science major at the University of Californ
   GPA: 3.7 | Junior Standing
 
 ## 💻 Project Experience
-- **BetterPractice Augmented Media Player** (Project Lead, Mar 2024 - Present)  
+- **[BetterPractice Augmented Media Player](https://betterpracticeapp.com/)** (Project Lead, Mar 2024 - Present)  
   Engineered an advanced media player with features like granular speed control and timestamp-specific annotations, using HTML, CSS, and JavaScript.
 
-- **Static Corpus Indexer and Search Engine** (Project Co-Lead, Mar 2024)  
+- **[Static Corpus Indexer and Search Engine](https://github.com/IanDLee/Static-Corpus-Indexer-and-Search-Engine)** (Project Co-Lead, Mar 2024)  
   Created a search engine with an inverted index for efficient, accurate searches across large document collections, featuring a user-friendly graphical interface.
 
-- **Agape - Mental Health AI ChatBot** (Full-Stack Developer, Jan 2024)  
+- **[Agape - Mental Health AI ChatBot](https://github.com/JeshChoi/Agape)** (Full-Stack Developer, Jan 2024)  
   Developed a mental wellness platform with real-time chat analysis, integrating OpenAI API for mood prediction and conversation responses, using technologies like Express.js, AWS, SQL, and React.js.
 
 - **ZotClassMobile App - 1st Place HackUCI** (Full-Stack Developer, Nov 2022)  
   Contributed to an API-based mobile app for UCI course information, with a backend in Python and Flask and a frontend in Flutter, deployed to Heroku.
+  [Frontend Repo](https://github.com/jwmason/ZotClassMobileFrontend) | [Backend Repo]([#](https://github.com/jwmason/ZotClassMobileBackend))
 
 ## 🛠 Professional Experience
 - **Software Engineer Intern**, BetterPractice (Feb 2024 - Present)  

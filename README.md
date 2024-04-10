@@ -1,4 +1,4 @@
-# Mason John Wong 🚀
+# Mason Wong 🚀
 
 Welcome to my GitHub! I'm a Computer Science major at the University of California, Irvine, with a passion for developing innovative solutions that leverage the latest technologies. I thrive on challenges and enjoy collaborating on projects that make a difference.
 

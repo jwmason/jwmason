@@ -29,7 +29,6 @@ Welcome to my GitHub! I'm a 2nd year Computer Science major at the University of
   Led logistics for large-scale hackathons, coordinating across departments to ensure success, and managing sponsorships and partnerships.
 
 ## 🌟 Additional Information
-- **Awards**: Nustar Scholarship Recipient, Robotics Pathway Completer, California Scholarship Federation Seal-Bearer Award
 - **Languages**: Python, C++, JavaScript, Java
 - **Frameworks**: React.js, Flask, Express.js
 - **Skills**: HTML, CSS, Node.js, Web Scraping, Chrome Extension Development

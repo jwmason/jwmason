@@ -17,9 +17,9 @@ Welcome to my GitHub! I'm a 2nd year Computer Science major at the University of
 - **[Agape - Mental Health AI ChatBot](https://github.com/JeshChoi/Agape)** (Full-Stack Developer, Jan 2024)  
   Developed a mental wellness platform with real-time chat analysis, integrating OpenAI API for mood prediction and conversation responses, using technologies like Express.js, AWS, SQL, and React.js.
 
-- **ZotClassMobile App - 1st Place HackUCI** (Full-Stack Developer, Nov 2022)  
+- **ZotClassMobile App - 1st Place HackUCI** [Frontend Repo](https://github.com/jwmason/ZotClassMobileFrontend) | [Backend Repo](https://github.com/jwmason/ZotClassMobileBackend) (Full-Stack Developer, Nov 2022)  
   Contributed to an API-based mobile app for UCI course information, with a backend in Python and Flask and a frontend in Flutter, deployed to Heroku.
-  [Frontend Repo](https://github.com/jwmason/ZotClassMobileFrontend) | [Backend Repo](https://github.com/jwmason/ZotClassMobileBackend)
+
 
 ## 🛠 Professional Experience
 - **Software Engineer Intern**, BetterPractice (Feb 2024 - Present)  

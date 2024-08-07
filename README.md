@@ -1,6 +1,6 @@
 # Mason Wong 🚀
 
-Welcome to my GitHub! I'm a 2nd year Computer Science major at the University of California, Irvine, with a passion for developing innovative solutions that leverage the latest technologies.
+Welcome to my GitHub! I'm a 3rd year Computer Science major at the University of California, Irvine, with a passion for developing innovative solutions that leverage the latest technologies.
 
 ## 💻 Projects I Enjoyed
 - **[BetterPractice Augmented Media Player](https://betterpracticeapp.com/)** (SWE Intern, June 2024 - August 2024)  

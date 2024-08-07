@@ -3,10 +3,10 @@
 Welcome to my GitHub! I'm a 3rd year Computer Science major at the University of California, Irvine, with a passion for developing innovative solutions that leverage the latest technologies.
 
 ## 💻 Projects I Enjoyed
-- **[BetterPractice Augmented Media Player](https://betterpracticeapp.com/)** (SWE Intern, June 2024 - August 2024)  
+- **[Media Player](https://betterpracticeapp.com/)** (SWE Intern, June 2024 - August 2024)  
   Spearheaded the design and implementation of an object oriented media player for the Better Practice app, and implemented continuous integration and continuous deployment (CI/CD) pipelines to streamline the build and release process.
 
-- **[Static Corpus Indexer and Search Engine](https://github.com/IanDLee/Static-Corpus-Indexer-and-Search-Engine)** (Full Stack Developer, Mar 2024)  
+- **[Search Engine](https://github.com/IanDLee/Static-Corpus-Indexer-and-Search-Engine)** (Full Stack Developer, Mar 2024)  
   Created a search engine with an inverted index for efficient, accurate searches across large document collections, featuring a user-friendly graphical interface.
 
 - **[Agape - Mental Health AI ChatBot](https://github.com/JeshChoi/Agape)** (Full-Stack Developer, Jan 2024)  

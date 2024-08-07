@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a 3rd year Computer Science major at the University of
 
 ## 🌟 What I've Learned Along the Way
 - **Languages**: Python, C++, JavaScript, Java, HTML, CSS, Assembly x86, R
-- **Frameworks**: React, Express.js, Node.js, Flask
+- **Frameworks**: React, Express.js, Node.js, Flask, PyTorch, scikit-learn
 - **Tools**: Git (GitHub, GitLab, Bitbucket)
 - **Skills**: Web Scraping, Chrome Extension Development
 - **Cloud & Database Technologies**: Amazon Web Services, SQL (MySQL, PostgreSQL, SQLite3)

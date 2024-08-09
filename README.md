@@ -1,26 +1,28 @@
 # Mason Wong 🚀
 
-Welcome to my GitHub! I'm a 3rd year Computer Science major at the University of California, Irvine, with a passion for developing innovative solutions that leverage the latest technologies.
+Welcome to my GitHub! I'm a 3rd-year Computer Science major at the University of California, Irvine, with a passion for developing innovative solutions that leverage cutting-edge technologies. My journey so far has been defined by a commitment to pushing the boundaries of what's possible through software development.
 
 ## 💻 Projects I Enjoyed
+- **[Stock Price Predictor](https://github.com/jwmason/Stock-Price-Predictor)** (Lead Developer, August 2024 - Present)  
+  Developed a stock price prediction application using LSTM neural networks with TensorFlow, achieving a 92% prediction accuracy. Built data pipelines using Yahoo Finance API and Pandas, and designed a responsive UI with Angular and TypeScript for dynamic graph visualization.
+
 - **[Media Player](https://betterpracticeapp.com/)** (SWE Intern, June 2024 - August 2024)  
-  Spearheaded the design and implementation of an object oriented media player for the Better Practice app, and implemented continuous integration and continuous deployment (CI/CD) pipelines to streamline the build and release process.
+  Spearheaded the design and implementation of an object-oriented media player for the BetterPractice app, supporting MP3, MP4, and YouTube formats. Streamlined the build and release process with CI/CD pipelines.
 
-- **[Search Engine](https://github.com/IanDLee/Static-Corpus-Indexer-and-Search-Engine)** (Full Stack Developer, Mar 2024)  
-  Created a search engine with an inverted index for efficient, accurate searches across large document collections, featuring a user-friendly graphical interface.
+- **[Search Engine](https://github.com/IanDLee/Static-Corpus-Indexer-and-Search-Engine)** (Full-Stack Developer, March 2024)  
+  Built a sophisticated search engine leveraging an inverted index to efficiently retrieve documents, significantly enhancing search efficiency and accuracy across 37,000+ website links. Designed a user-friendly graphical interface for seamless interaction.
 
-- **[Agape - Mental Health AI ChatBot](https://github.com/JeshChoi/Agape)** (Full-Stack Developer, Jan 2024)  
-  Developed a AI-driven chatbot leveraging a Google Chrome Extension for real-time chat analysis, employing web scraping techniques to extract data and the OpenAI API for emotional intelligence insights.
+- **[Mental Health AI ChatBot](https://github.com/JeshChoi/Agape)** (Full-Stack Developer, January 2024)  
+  Created an AI-driven chatbot leveraging a Google Chrome Extension for real-time chat analysis, employing web scraping techniques to extract data and the OpenAI API for emotional intelligence insights. Engineered the backend with Express.js, AWS, and SQL for scalable data management.
 
-- **ZotClassMobile App - 1st Place HackUCI** (Full-Stack Developer, Nov 2022)  
-  Built an API-based mobile app for UCI course information, with a backend in Python and Flask and a frontend in Flutter, deployed to Heroku.
-[Frontend Repo](https://github.com/jwmason/ZotClassMobileFrontend) | [Backend Repo](https://github.com/jwmason/ZotClassMobileBackend)
+- **[ZotClassMobile](https://github.com/jwmason/ZotClassMobileFrontend)** (Full-Stack Developer, November 2022)  
+  Developed an API-based mobile app for UCI course information, with a backend in Python and Flask and a frontend in Flutter, deployed to Heroku. Won 1st place at Hack at UCI’s 24-hour beginner hackathon out of 20+ teams.
 
 ## 🌟 What I've Learned Along the Way
-- **Languages**: Python, C++, JavaScript, Java, HTML, CSS, Assembly x86, R
-- **Frameworks**: React, Express.js, Node.js, Flask, PyTorch, scikit-learn
+- **Languages**: Python, C++, JavaScript, Java, HTML, CSS, Assembly x86, R, TypeScript
+- **Frameworks**: React, Express.js, Node.js, Flask, PyTorch, scikit-learn, TensorFlow, Angular
 - **Tools**: Git (GitHub, GitLab, Bitbucket)
-- **Skills**: Web Scraping, Chrome Extension Development
+- **Skills**: Web Scraping, Chrome Extension Development, Statistics, Data Analysis
 - **Cloud & Database Technologies**: Amazon Web Services, SQL (MySQL, PostgreSQL, SQLite3)
 
 ## 📬 Let's Connect

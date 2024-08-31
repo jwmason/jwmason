@@ -12,9 +12,6 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science major at the University of
 - **[Mental Health AI ChatBot](https://github.com/JeshChoi/Agape)** (Full-Stack Developer, January 2024)  
   Created an AI-driven chatbot leveraging a Google Chrome Extension for real-time chat analysis, employing web scraping techniques to extract data and the OpenAI API for emotional intelligence insights. Engineered the backend with Express.js, AWS, and SQL for scalable data management.
 
-- **[ZotClassMobile](https://github.com/jwmason/ZotClassMobileFrontend)** (Full-Stack Developer, November 2022)  
-  Developed an API-based mobile app for UCI course information, with a backend in Python and Flask and a frontend in Flutter, deployed to Heroku. Won 1st place at Hack at UCI’s 24-hour beginner hackathon out of 20+ teams.
-
 ## 🌟 What I've Learned Along the Way
 - **Languages**: Python, C++, JavaScript, Java, HTML, CSS, Assembly x86, R, TypeScript
 - **Frameworks**: React, Express.js, Node.js, Flask, PyTorch, scikit-learn, TensorFlow, Angular

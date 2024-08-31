@@ -4,10 +4,7 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science major at the University of
 
 ## 💻 Projects I Enjoyed
 - **[Stock Price Predictor](https://github.com/jwmason/Stock-Price-Predictor)** (Lead Developer, August 2024 - Present)  
-  Developed a stock price prediction application using LSTM neural networks with TensorFlow, achieving a 92% prediction accuracy. Built data pipelines using Yahoo Finance API and Pandas, and designed a responsive UI with Angular and TypeScript for dynamic graph visualization.
-
-- **[Media Player](https://betterpracticeapp.com/)** (SWE Intern, June 2024 - August 2024)  
-  Spearheaded the design and implementation of an object-oriented media player for the BetterPractice app, supporting MP3, MP4, and YouTube formats. Streamlined the build and release process with CI/CD pipelines.
+  Developed a stock price prediction application using LSTM neural networks with TensorFlow, achieving a 92% prediction accuracy. Built data pipelines using Yahoo Finance API and Pandas. Currently designing a responsive UI with Angular and TypeScript for dynamic graph visualization.
 
 - **[Search Engine](https://github.com/IanDLee/Static-Corpus-Indexer-and-Search-Engine)** (Full-Stack Developer, March 2024)  
   Built a sophisticated search engine leveraging an inverted index to efficiently retrieve documents, significantly enhancing search efficiency and accuracy across 37,000+ website links. Designed a user-friendly graphical interface for seamless interaction.

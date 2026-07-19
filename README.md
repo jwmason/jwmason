@@ -15,6 +15,5 @@ Welcome to my GitHub! I am a Full-stack Software Engineer with nearly 2 years of
 - **[Mental Health AI ChatBot](https://github.com/JeshChoi/Agape)**: AI-driven Chrome extension chatbot utilizing the OpenAI API for real-time emotional intelligence insights.
 
 ## 📬 Let's Connect
-- **Email**: [masonjw1@uci.edu](mailto:masonjw1@uci.edu)[cite: 1]
-- **LinkedIn**: [mason-jwong](https://www.linkedin.com/in/mason-jwong)[cite: 1]
-- **GitHub**: [@jwmason](https://github.com/jwmason)[cite: 1]
+- **Email**: [masonjw1@uci.edu](mailto:masonjw1@uci.edu)
+- **LinkedIn**: [mason-jwong](https://www.linkedin.com/in/mason-jwong)

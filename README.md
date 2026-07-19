@@ -1,27 +1,27 @@
 # Mason Wong 🚀
 
-Welcome to my GitHub! I'm a 3rd-year Computer Science major at the University of California, Irvine, with a passion for developing innovative solutions that leverage cutting-edge technologies. My journey so far has been defined by a commitment to pushing the boundaries of what's possible through software development.
+Welcome to my GitHub! I am a Full-stack Software Engineer with nearly 2 years of experience and a graduate of the University of California Irvine with a Bachelor of Science in Computer Science[cite: 1]. I currently focus on full-stack development and highly utilize modern AI tooling (like Cursor, Claude, and Codex) to accelerate feature delivery and automate workflows[cite: 1].
 
-## 💻 Projects I Enjoyed
-- **[Stock Price Predictor](https://github.com/jwmason/Stock-Price-Predictor)** (Lead Developer, August 2024 - Present)  
-  Developed a stock price prediction application using LSTM neural networks with TensorFlow, achieving a 92% prediction accuracy. Built data pipelines using Yahoo Finance API and Pandas. Currently designing a responsive UI with Angular and TypeScript for dynamic graph visualization.
+## 💼 Experience
+- **Software Engineer** @ Celonis[cite: 1]
+- **Software Engineer Intern** @ West Monroe Partners[cite: 1]
+- **Cloud Engineer Intern** @ PM Accelerator[cite: 1]
+- **Full-Stack Developer Intern** @ Huro AI[cite: 1]
+- **Software Engineer Intern** @ Better Practice[cite: 1]
 
-- **[Search Engine](https://github.com/IanDLee/Static-Corpus-Indexer-and-Search-Engine)** (Full-Stack Developer, March 2024)  
-  Built a sophisticated search engine leveraging an inverted index to efficiently retrieve documents, significantly enhancing search efficiency and accuracy across 37,000+ website links. Designed a user-friendly graphical interface for seamless interaction.
+## 💻 Personal Projects
+- **[Stock Price Predictor](https://github.com/jwmason/Stock-Price-Predictor)**: LSTM neural network app with TensorFlow for stock forecasting, featuring data pipelines built with the Yahoo Finance API.
+- **[Search Engine](https://github.com/IanDLee/Static-Corpus-Indexer-and-Search-Engine)**: Full-stack inverted index search engine designed to efficiently retrieve and process over 37,000 documents.
+- **[Mental Health AI ChatBot](https://github.com/JeshChoi/Agape)**: AI-driven Chrome extension chatbot utilizing the OpenAI API for real-time emotional intelligence insights.
 
-- **[Mental Health AI ChatBot](https://github.com/JeshChoi/Agape)** (Full-Stack Developer, January 2024)  
-  Created an AI-driven chatbot leveraging a Google Chrome Extension for real-time chat analysis, employing web scraping techniques to extract data and the OpenAI API for emotional intelligence insights. Engineered the backend with Express.js, AWS, and SQL for scalable data management.
-
-## 🌟 What I've Learned Along the Way
-- **Languages**: Python, C++, JavaScript, Java, HTML, CSS, Assembly x86, R, TypeScript
-- **Frameworks**: React, Express.js, Node.js, Flask, PyTorch, scikit-learn, TensorFlow, Angular
-- **Tools**: Git (GitHub, GitLab, Bitbucket)
-- **Skills**: Web Scraping, Chrome Extension Development, Statistics, Data Analysis
-- **Cloud & Database Technologies**: Amazon Web Services, SQL (MySQL, PostgreSQL, SQLite3)
+## 🌟 Technical Skills
+- **Languages**: Java, JavaScript, TypeScript, Python, SQL, C#, HTML/CSS[cite: 1]
+- **Frameworks & Libraries**: Angular, React, Node.js, Express, .NET Core, Spring Boot, RxJS/NgRx, Flask[cite: 1]
+- **Cloud & DevOps**: Azure, AWS, GCP, Docker, Kubernetes, GitHub Actions CI/CD, Nx, REST APIs[cite: 1]
+- **Databases**: MySQL, PostgreSQL, MongoDB, SQLite, AWS RDS[cite: 1]
+- **AI Tools**: Cursor, Codex, Claude Cowork/Code, GitHub Copilot[cite: 1]
 
 ## 📬 Let's Connect
-- **Email**: [masonjw1@uci.edu](mailto:masonjw1@uci.edu)
-- **LinkedIn**: [mason-jwong](https://www.linkedin.com/in/mason-jwong)
-- **GitHub**: [@jwmason](https://github.com/jwmason)
-
-I'm always looking for opportunities to grow and collaborate on exciting projects. Feel free to reach out if you're interested in connecting!
+- **Email**: [masonjw1@uci.edu](mailto:masonjw1@uci.edu)[cite: 1]
+- **LinkedIn**: [mason-jwong](https://www.linkedin.com/in/mason-jwong)[cite: 1]
+- **GitHub**: [@jwmason](https://github.com/jwmason)[cite: 1]
